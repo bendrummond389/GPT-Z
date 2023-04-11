@@ -1,0 +1,4 @@
+*.txt
+*json
+/fine_tuned_gpt2/*
+__pycache__
